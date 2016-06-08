@@ -1,0 +1,9 @@
+c:\users\norabbit\documents\visual studio 2013\Projects\AttacksManager\AttacksManager\bin\Debug\AttacksManager.exe.config
+c:\users\norabbit\documents\visual studio 2013\Projects\AttacksManager\AttacksManager\bin\Debug\AttacksManager.exe
+c:\users\norabbit\documents\visual studio 2013\Projects\AttacksManager\AttacksManager\bin\Debug\AttacksManager.pdb
+c:\users\norabbit\documents\visual studio 2013\Projects\AttacksManager\AttacksManager\obj\Debug\AttacksManager.csprojResolveAssemblyReference.cache
+c:\users\norabbit\documents\visual studio 2013\Projects\AttacksManager\AttacksManager\obj\Debug\AttacksManager.Form1.resources
+c:\users\norabbit\documents\visual studio 2013\Projects\AttacksManager\AttacksManager\obj\Debug\AttacksManager.Properties.Resources.resources
+c:\users\norabbit\documents\visual studio 2013\Projects\AttacksManager\AttacksManager\obj\Debug\AttacksManager.csproj.GenerateResource.Cache
+c:\users\norabbit\documents\visual studio 2013\Projects\AttacksManager\AttacksManager\obj\Debug\AttacksManager.exe
+c:\users\norabbit\documents\visual studio 2013\Projects\AttacksManager\AttacksManager\obj\Debug\AttacksManager.pdb
